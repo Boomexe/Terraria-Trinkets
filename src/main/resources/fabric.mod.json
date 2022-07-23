@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "id": "terrariatrinkets",
+  "version": "${version}",
+
+  "name": "Terraria Trinkets",
+  "description": "Brings a bunch of items from Terraria into Minecraft!",
+  "authors": [
+    "Boomexe"
+  ],
+  "contact": {
+    "homepage": "",
+    "sources": ""
+  },
+
+  "license": "MIT",
+  "icon": "assets/terrariatrinkets/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "net.boomexe.terrariatrinkets.TerrariaTrinkets"
+    ]
+  },
+  "mixins": [
+    "terrariatrinkets.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.14.6",
+    "fabric": "*",
+    "minecraft": "~1.19",
+    "java": ">=17"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}

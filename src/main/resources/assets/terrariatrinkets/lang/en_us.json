@@ -1,0 +1,28 @@
+{
+  "item.terrariatrinkets.hermes_boots": "Hermes Boots",
+  "item.terrariatrinkets.obsidian_skull": "Obsidian Skull",
+  "item.terrariatrinkets.bezoar": "Bezoar",
+  "item.terrariatrinkets.recall_potion": "Recall Potion",
+  "item.terrariatrinkets.magic_mirror": "Magic Mirror",
+  "item.terrariatrinkets.cobalt_shield": "Cobalt Shield",
+  "item.terrariatrinkets.diving_helmet": "Diving Helmet",
+  "item.terrariatrinkets.aglet": "Aglet",
+  "item.terrariatrinkets.obsidian_shield": "Obsidian Shield",
+  "item.terrariatrinkets.feral_claws": "Feral Claws",
+
+  "item.terrariatrinkets.hermes_boots.tooltip": "§9The wearer can run super fast",
+  "item.terrariatrinkets.obsidian_skull.tooltip": "§9Grants immunity to fire damage (not lava!)",
+  "item.terrariatrinkets.bezoar.tooltip": "§9Immunity to poison",
+  "item.terrariatrinkets.recall_potion.tooltip": "§9Teleports you home",
+  "item.terrariatrinkets.magic_mirror.tooltip": "§9Gaze in the mirror to return home",
+  "item.terrariatrinkets.cobalt_shield.tooltip": "§9Grants immunity to knockback",
+  "item.terrariatrinkets.diving_helmet.tooltip": "§9Greatly extends underwater breathing",
+  "item.terrariatrinkets.aglet.tooltip": "§9Increased Movement Speed",
+  "item.terrariatrinkets.obsidian_shield.tooltip": "§9Grants immunity to knockback and fire damage (not lava!)",
+  "item.terrariatrinkets.feral_claws.tooltip": "§9Increases attack speed",
+
+  "itemGroup.terrariatrinkets.terraria_trinkets": "Terraria Trinkets",
+
+  "terrariatrinkets.trinket_equip": "Trinket Equipped",
+  "terrariatrinkets.recall": "Recalled"
+}

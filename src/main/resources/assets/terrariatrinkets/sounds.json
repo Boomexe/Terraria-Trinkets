@@ -1,0 +1,14 @@
+{
+  "trinket_equip": {
+    "subtitle": "terrariatrinkets.trinket_equip",
+    "sounds": [
+      "terrariatrinkets:trinket_equip"
+    ]
+  },
+  "recall": {
+    "subtitle": "terrariatrinkets.recall",
+    "sounds": [
+      "terrariatrinkets:recall"
+    ]
+  }
+}

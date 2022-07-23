@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "terrariatrinkets:cobalt_shield"
+  },
+  "addition": {
+    "item": "terrariatrinkets:obsidian_skull"
+  },
+  "result": {
+    "item": "terrariatrinkets:obsidian_shield"
+  }
+}
